@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thevman/test-workflows/issues"
   },
-  "homepage": "https://github.com/thevman/test-workflows#readme"
+  "homepage": "https://github.com/thevman/test-workflows#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
 }
